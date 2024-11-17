@@ -49,7 +49,7 @@ class MyApp extends StatelessWidget {
                             SizedBox(
                               width: 250,
                               height: 60,
-                              child: Text('캐논 DSLR 100D (단렌즈, 충전기 16기가SD 포함)',
+                              child: Text('캐논 DSLR 100D (단렌즈, 충전기 16기가SD 포함) ',
                                 style: TextStyle(fontSize: 20), softWrap: true, overflow: TextOverflow.clip
                               ),
                             ),
